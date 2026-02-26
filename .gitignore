@@ -1,0 +1,12 @@
+#Ignore log files in TestComplete
+JediV2SystemTests/**/Log
+JediV2SystemTests/JediSystemTests/*.dmp
+
+#Ignore Tester-specific settings files for TestComplete
+*.tcCfgExtender
+JediV2SystemTests/JediSystemTests/Script/**/Visualizer
+*.tcVis
+
+#Ignore backup files created by TestComplete
+JediV2SystemTests_backup/
+*.bak

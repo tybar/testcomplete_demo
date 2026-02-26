@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<folder name="Tests">
+			<child name="AdditionTests" key="{E1C03E4E-6FB8-4ADB-9703-68A4DE335827}" path="AdditionTests.js" />
+		</folder>
+		<folder name="Pages">
+			<child name="Operators" key="{43EF239B-0A06-42FC-9291-4610542ED408}" path="Operators.js" />
+			<child name="Operands" key="{61C2042D-1399-45B7-8864-E5C79193F2A9}" path="Operands.js" />
+			<child name="CalculatorBase" key="{DF65A51E-A014-4178-8A09-00BE2BD6D36B}" path="CalculatorBase.js" />
+			<child name="Results" key="{4A920D7F-3291-428F-B669-E59855D2D68B}" path="Results.js" />
+		</folder>
+		<folder name="Utilities">
+			<child name="GeneralHelper" key="{D41DC52A-EEAE-4115-AD5E-65528FF11CA4}" path="GeneralHelper.js" />
+		</folder>
+	</children>
+</Root>
